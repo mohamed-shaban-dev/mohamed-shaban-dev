@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-I'm a **Backend Developer with 3+ years of experience** specializing in building robust, high-performance educational platforms. I've contributed to **6+ enterprise LMS systems** serving thousands of learners, handling everything from course management to payment integrations.
+I'm a **Backend Developer with 2+ years of experience** specializing in building robust, high-performance educational platforms. I've contributed to **6+ enterprise LMS systems** serving thousands of learners, handling everything from course management to payment integrations.
 
 **What I do best:**
 - 🎓 Build scalable **Learning Management Systems (LMS)**
